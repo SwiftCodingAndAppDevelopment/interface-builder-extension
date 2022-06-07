@@ -1,2 +1,3 @@
 # interface-builder-extension
-Digital Flagship Swift Coding and App Development
+A project designed around getting comfortable with the Interface Builder in Xcode
+
